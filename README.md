@@ -4,7 +4,7 @@ Projeto de **Lógica de Programação** do básico ao avançado.
 Criado para organizar os estudos acompanhando o curso da **Bóson Treinamentos** no YouTube (8 horas).
 
 📺 Curso base:
-👉 [COLE_AQUI_O_LINK_DO_CURSO](https://youtu.be/XzkZO2qjgec)
+👉 [LINK_DO_CURSO](https://youtu.be/XzkZO2qjgec)
 
 ---
 
